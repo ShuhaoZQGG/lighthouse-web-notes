@@ -6,3 +6,6 @@
 ## Summary
 This repository contains all the notes taken by [Shuhao](https://github.com/ShuhaoZQGG) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development 
 
+## Table of Contents
+* [Week 1]
+  * [Day 1]
