@@ -2,6 +2,8 @@
 
 [Compass](https://web.compass.lighthouselabs.ca/days/w07d2) 
 
+[Today's Work](https://github.com/ShuhaoZQGG/scheduler)
+
 1. Before beginning the project, it's better to draw a react map to simulate the flow of each components and their props & states because react can only pass props and state from parents to children not the reverse
 
 2. Storybook testing:
