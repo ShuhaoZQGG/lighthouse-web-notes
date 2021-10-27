@@ -2,9 +2,9 @@
 
 [Compass](https://web.compass.lighthouselabs.ca/days/w07d2) 
 
-Before beginning the project, it's better to draw a react map to simulate the flow of each components and their props & states because react can only pass props and state from parents to children not the reverse
+1. Before beginning the project, it's better to draw a react map to simulate the flow of each components and their props & states because react can only pass props and state from parents to children not the reverse
 
-Storybook testing:
+2. Storybook testing:
 
 It's a framework used to isolate each component and test each's functionality.
 
@@ -44,9 +44,10 @@ const interviewers = [
     ));
 ```
 
-Use Array.map() function to render a list of items
-
-Pass the props to the next react component 
+3. Use Array.map() function to render a list of items 
+    
+    Pass the props to the next react component 
+    
 
 Example: 
 
@@ -77,7 +78,7 @@ export default function InterviewerList(props) {
 }
 ```
 
-Dynamically changing classes using the [classnames](https://github.com/JedWatson/classnames#usage) library combining with .scss files
+4. Dynamically changing classes using the [classnames](https://github.com/JedWatson/classnames#usage) library combining with .scss files
 
 examples:
 
