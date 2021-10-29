@@ -2,7 +2,7 @@
 
 ****[[Instructor's Notes](https://web.compass.lighthouselabs.ca/activities/1149/lectures/4867)****[
 
-****[[Today's work](https://github.com/ShuhaoZQGG/scheduler/tree/master/src/components/Appointment) and [StoryBook](https://github.com/ShuhaoZQGG/scheduler/blob/master/stories/index.js)****[
+****[[Today's work](https://github.com/ShuhaoZQGG/scheduler/tree/master/src/components/Appointment) and [StoryBook](https://github.com/ShuhaoZQGG/scheduler/blob/master/stories/index.js)****
 
 1. When pass props from List down to ListItem, we can pass the argument inside the function so we don't have to pass an extra props (the argument ex. id, name). However, it only applies if we don't need to render the argument.
     
