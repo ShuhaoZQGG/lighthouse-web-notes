@@ -1,14 +1,14 @@
-Instructor's Notes (Not uploaded yet)
+****Instructor's Notes (Not uploaded yet)****
 
-[Compass](https://web.compass.lighthouselabs.ca/days/w07d4)
+****[Compass](https://web.compass.lighthouselabs.ca/days/w07d4)****
 
-Today's Work:
+****Today's Work:****
 
 [Scheduler](https://github.com/ShuhaoZQGG/scheduler/tree/master/src)
 
 [Live Search For Album](https://www.notion.so/71ffbbe878220126aabc64cd05685ac9) ⇒ [Project Link](https://github.com/lighthouse-labs/album-search/tree/base)
 
-1. **UseEffect**
+1. ***UseEffect***
     1. The form: useEffect(() => { ... }, [ ... ])
     2. Inside the curly brackets we put funciton and inside the square brackets is the dependency state (run the function if the state is changed)
     3. The form to active two function in one onClick call in react: 
@@ -74,8 +74,8 @@ Today's Work:
         }, [likes]);
         ```
         
-2. **Axios**
-    1. Usage (Get / Post)
+2. ***Axios***
+    1. **Usage (Get / Post)**
         - `axios.get(url[, config])`
         - `axios.post(url[, config])`
         - `axios.put(url[, config])`
@@ -102,7 +102,7 @@ Today's Work:
           });
         ```
         
-    2. Errors
+    2. **Errors**
         
         ```jsx
         axios
@@ -117,7 +117,7 @@ Today's Work:
           });
         ```
         
-    3. Use Axios inside UseEffect
+    3. **Use Axios inside UseEffect**
         
         ```jsx
         useEffect(()=> {
@@ -128,8 +128,8 @@ Today's Work:
         }, [state])
         ```
         
-3. **Handle multiple useStates**
-    1. create multiple useStates with only one [state, setState]
+3. ***Handle multiple useStates***
+    1. **create multiple useStates with only one [state, setState]**
         
         Replace:
         
