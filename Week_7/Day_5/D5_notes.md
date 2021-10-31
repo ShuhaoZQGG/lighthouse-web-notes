@@ -56,7 +56,7 @@
 
 3. How to use a custom hook:
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee096f66-b1e9-4b75-9cc0-5852d94dcf80/Untitled.png)
+    ![Appointment Flow](https://s3-us-west-2.amazonaws.com/reactv2/figures/c665622e-5093-4552-8519-51b4f274cf21.png)
     
     example:
     
