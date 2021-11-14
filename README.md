@@ -16,4 +16,6 @@ This repository contains all the notes taken by [Shuhao](https://github.com/Shuh
   * [Day 1](https://github.com/ShuhaoZQGG/lighthouse-web-notes/tree/master/Week_8/Day_1)
   * [Day 2](https://github.com/ShuhaoZQGG/lighthouse-web-notes/tree/master/Week_8/Day_2)
   * [Day 3](https://github.com/ShuhaoZQGG/lighthouse-web-notes/tree/master/Week_8/Day_3)
+  * [Day 4](https://github.com/ShuhaoZQGG/lighthouse-web-notes/tree/master/Week_8/Day_4)
+  * [Day 5](https://github.com/ShuhaoZQGG/lighthouse-web-notes/tree/master/Week_8/Day_5)
 
